@@ -1,0 +1,5 @@
+prototype-js (1.7.3-1) balabit-os-6.0; urgency=low
+
+  * Initial release.
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Wed, 24 Jan 2018 13:46:23 +0100

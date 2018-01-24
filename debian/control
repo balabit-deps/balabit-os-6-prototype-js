@@ -1,0 +1,13 @@
+Source: prototype-js
+Maintainer: Balazs Benedek <balazs.benedek@balabit.com>
+Priority: extra
+Section: web
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.7.3
+Homepage: https://github.com/sstephenson/prototype
+
+Package: prototype-js
+Architecture: all
+Description: Prototype is a JavaScript framework that aims to ease development of dynamic web applications.
+             It offers a familiar class-style OO framework, extensive Ajax support,
+             higher-order programming constructs, and easy DOM manipulation.
